@@ -8,6 +8,7 @@ This is intended to be a compilation of the big AI safety ideas, problems and ap
 * Vinge uncertainty [[1]](https://arbital.com/p/Vingean_uncertainty/) [[2]](https://arbital.com/p/Vinge_principle/) [[3]](https://arbital.com/p/Vinge_law/)
 * Collingridge dilemma [[1]](https://en.wikipedia.org/wiki/Collingridge_dilemma)
 * Bio-anchors [[1]](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)
+* Thought experiments [[1]](https://bounded-regret.ghost.io/thought-experiments-provide-a-third-anchor/)
 
 ### Optimization issues
 * Inner alignment.   [[1]](https://arxiv.org/abs/2105.14111) [[2]](https://aligned.substack.com/p/inner-alignment)
@@ -31,8 +32,8 @@ This is intended to be a compilation of the big AI safety ideas, problems and ap
 
 ### Alien behaviors
 * Orthogonality Thesis [[1]](https://www.lesswrong.com/tag/orthogonality-thesis) [[2]](https://arbital.com/p/orthogonality/) [[3]](https://www.fhi.ox.ac.uk/wp-content/uploads/Orthogonality_Analysis_and_Metaethics-1.pdf) [[4]](https://nickbostrom.com/superintelligentwill.pdf)
-* Strawberry problem [[1]](https://forum.effectivealtruism.org/posts/v2KL4ApqrxuYqQckK/ngo-and-yudkowsky-on-ai-capability-gains)
-* Paperclip maximizing [[1]](https://www.lesswrong.com/tag/paperclip-maximizer)
+* Strawberry problem [[1]](https://forum.effectivealtruism.org/posts/v2KL4ApqrxuYqQckK/ngo-and-yudkowsky-on-ai-capability-gains) [[2]](https://intelligence.org/2018/02/28/sam-harris-and-eliezer-yudkowsky/)
+* Paperclip maximizing [[1]](https://www.lesswrong.com/tag/paperclip-maximizer) [[2]](https://nickbostrom.com/ethics/ai)
 * Learning the wrong distribution. [[1]](https://arxiv.org/pdf/1905.02175.pdf)  [[2]](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
 * High impact [[1]](https://arbital.com/p/low_impact/)
 * Edge instantiation [[1]](https://arbital.com/p/edge_instantiation/)
