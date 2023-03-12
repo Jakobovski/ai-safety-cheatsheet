@@ -109,6 +109,8 @@ Overview [[1]](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf) [[2
 * [Awesome AI Alignment](https://bytemeta.vip/repo/dit7ya/awesome-ai-alignment)
 * [AI Alignment resources arbital](https://arbital.com/explore/ai_alignment/)
 * [AGISafety.org](http://agisafety.org)
+* [AINotKillEveryone.com](http://ainotkilleveryone.com.com)
+
 
 ## About Cheatsheet
 Contributions are welcome! Please open a merge request and will do my best to quickly approve it.
